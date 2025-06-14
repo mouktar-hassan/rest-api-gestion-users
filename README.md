@@ -24,7 +24,7 @@ Mini projet pour s'entrainer la création des APIs Rest avec Java Spring et Spri
 
 1. Clonez le dépôt :
    ```bash
-   git clone https://exemple.com/monprojet.git
+  git clone https://github.com/mouktar-hassan/rest-api-gestion-users.git
 
 ## Monitoring et Observabilité
 
